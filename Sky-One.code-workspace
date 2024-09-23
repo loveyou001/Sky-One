@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "vscode-gitlens",
+			"path": "../../../../Downloads/vscode-gitlens"
+		}
+	],
+	"settings": {}
+}
